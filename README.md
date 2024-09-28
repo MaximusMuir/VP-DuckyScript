@@ -32,6 +32,10 @@
 - The script will generate a Rubber Ducky script that will prompt you to save to your device (as .txt)
 - Execute the script on your Rubber Ducky or Flipper Zero to start playing! (using the button to play each line)
 
+- Example file conversion ⬇️
+![Screenshot 2024-09-28 230810](https://github.com/user-attachments/assets/1f1f3f9a-85d5-4263-b04f-7f5ec880c5e8)
+![Screenshot 2024-09-28 231322](https://github.com/user-attachments/assets/738e7093-6709-4c3f-80ed-3df95501a881)
+
 ------------
 💻  Contributing
 ------------
