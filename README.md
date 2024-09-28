@@ -18,9 +18,9 @@
 - Image in use ⬇️
 ![IMG_0391](https://github.com/user-attachments/assets/6b18fd05-a632-461b-9daa-25fee3a09d93)
 
----------------
+-------------------
 ✏️  Getting Started 
----------------
+-------------------
 - Python 3.x installed on your machine (I use v3.11)
 - Basic understanding of how to run Python scripts
 - A Rubber Ducky (with button) or compatible device (like Flipper Zero (with BadUSB app))
