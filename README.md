@@ -1,4 +1,4 @@
-# Virtual Piano to Rubber Ducky Script Converter 🎹
+# Virtual Piano to Rubber Ducky Script Converter 🎼 > 📜
 ------------------------------------------------
 📄  Overview 
 --------
@@ -11,7 +11,7 @@ Welcome to the Virtual Piano to Rubber Ducky Script Converter! This project prov
 - User-Friendly: Designed for users with devices that have a button interface, making it simple to perform piano pieces automatically.
 - Press the button (on, in my case my flipper zero) to send a keyboard output to the piano as it works like the auto piano in the mentioned roblox game where you press a button for the next note / chord to be played eg: a b c [de] f [gh].
 
-Inspiration: Inspired by the auto piano feature in the Roblox game mentioned above, bringing a fun and interactive way to enjoy music.
+
 
 ---------------
 ✏️  Getting Started 
@@ -30,7 +30,7 @@ Execute the script on your Rubber Ducky or Flipper Zero to start playing!
 ------------
 💻  Contributing
 ------------
-- Contributions are welcome! If you have ideas for improvements or find any bugs, please contact me on Discord (https://discord.gg/XCSjNZn2) or submit a pull request.
+- Contributions are welcome! If you have ideas for improvements or find any bugs, please contact me on Discord (MaximusMuir) or submit a pull request.
 
 ---------------
 💡  Acknowledgments
