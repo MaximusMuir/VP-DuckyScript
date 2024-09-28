@@ -35,7 +35,7 @@
 ------------
 💻  Contributing
 ------------
-- Contributions are welcome! If you have ideas for improvements or find any bugs, please contact me on Discord (MaximusMuir) or submit a pull request.
+- Contributions are welcome! If you have ideas for improvements or find any bugs, please contact me on Discord (MaximusMuir) or submit a pull request/issue.
 
 ---------------
 💡  Acknowledgments
