@@ -1,12 +1,14 @@
+# Virtual piano sheet music to ducky script converter
+
 # Written by MaximusMuir on 28/09/24
 # Do not take and adertise as your own
-
-# Virtual piano sheet music to ducky script converter
 
 # Download this script and run.
 # It will show a small window with a button to upload a .txt file (upload virtual piano sheet there)
 # It will then imediat immediately prompt you to save a .txt file (the converted ducky script)
 # Save the .txt ducky script somewhere you will remeber it, then transfer it to your BadUSB (my case: qFlipper - BadUSB folder)
+
+# Message me on discord (info in README file) if any issues arise !
 
 import tkinter as tk
 from tkinter import filedialog
