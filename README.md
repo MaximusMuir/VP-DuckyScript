@@ -6,6 +6,8 @@ Overview
 --------
 Welcome to the Virtual Piano to Rubber Ducky Script Converter! This project provides a Python script that takes virtual piano sheets and transforms them into a Rubber Ducky script, specifically designed for use with the Flipper Zero or similar devices equipped with buttons. This tool emulates the auto piano feature found in the Roblox game https://www.roblox.com/games/8848607186/Digital-Piano-Free-Auto, allowing you to play songs effortlessly!
 
+ Digital Piano [Free Auto]
+
 --------
 Features
 --------
