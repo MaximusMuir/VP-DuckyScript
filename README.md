@@ -1,6 +1,4 @@
 # Virtual Piano to Rubber Ducky Script Converter
-
-wasd
 ------------------------------------------------
 Overview
 --------
@@ -11,17 +9,17 @@ Features
 --------
 - Conversion: Easily convert virtual piano sheet music into a script that can be executed on your Rubber Ducky or compatible device.
 - User-Friendly: Designed for users with devices that have a button interface, making it simple to perform piano pieces automatically.
-- Press the button to send a keyboard output to the piano.
+- Press the button (on, in my case my flipper zero) to send a keyboard output to the piano as it works like the auto piano in the mentioned roblox game where you press a button for the next note / chord to be played eg: a b c [de] f [gh].
 
-Roblox Inspiration: Inspired by the auto piano feature in the Roblox game mentioned above, bringing a fun and interactive way to enjoy music.
+Inspiration: Inspired by the auto piano feature in the Roblox game mentioned above, bringing a fun and interactive way to enjoy music.
 
 ---------------
 Getting Started
 ---------------
-- Python 3.x installed on your machine (I use 3.11)
+- Python 3.x installed on your machine (I use v3.11)
 - Basic understanding of how to run Python scripts
 - A Rubber Ducky (with button) or compatible device (like Flipper Zero (with BadUSB app))
-- 
+
 -----
 Usage
 -----
