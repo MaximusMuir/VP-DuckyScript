@@ -11,7 +11,7 @@ def upload_file():
         print(f"File uploaded: {file_path}")
         with open(file_path, 'r') as file:
             content = file.read()
-            print("File content read successfully.")
+            print("\nFile content read successfully.")
             handle_file_content(content)
 
 # Function to handle the file content
