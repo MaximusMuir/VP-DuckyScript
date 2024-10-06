@@ -54,5 +54,5 @@ V-Pano info (about me):
 ---------------
 💡  Acknowledgments
 ---------------
-- Inspired by the Roblox game Digital Piano [Free Auto].
+- Inspired by the auto piano feature on the Roblox game Digital Piano [Free Auto] (well. not inspired as so but i was playing that game and designed this to convert the files to ducky so i could use on such game)
 - Special thanks to you for visiting this site!
