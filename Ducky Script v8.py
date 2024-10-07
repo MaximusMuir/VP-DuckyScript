@@ -64,5 +64,5 @@ upload_button = tk.Button(root, text="Upload .txt File", command=upload_file)
 upload_button.pack(pady=30)
 
 # Run the Tkinter application
-print("Application started. Waiting for user input...")
+print("\nApplication started. Waiting for user input...")
 root.mainloop()
