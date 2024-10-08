@@ -41,7 +41,7 @@
 -------------
 - In no way will this get you banned (talking of roblox) as a BadUSB is just a device sending keyboard button presses to your pc.
 - I made this just as a little side project for myself, and decided to share it on here.
-- - Ducky scripts (on flipper) using the button to proceed, over bluetooth can sometimes reset the script if you press to quickly. So is bessed used using a USB. 
+- Ducky scripts (on flipper) using the button to proceed, over bluetooth can sometimes reset the script if you press to quickly. So is bessed used using a USB. 
 
 V-Pano info (about me):
 - I have been playing virtual piano for a few years now.
