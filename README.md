@@ -46,6 +46,9 @@ V-Pano info (about me):
 - I have been playing virtual piano for a few years now.
 - Some people say auto is for bad people wo dont know how to play properly, but i just look past them and enjoy myself.
 
+- Ducky scripts (on flipper) using the button to proceed, over bluetooth can sometimes reset the script if you press to quickly. 
+
+
 ------------
 💻  Contributing
 ------------
