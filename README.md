@@ -8,6 +8,7 @@
 - This is the in-game auto piano that i am re-creating for my Flipper zero (BadUSB) ⬇️
 ![Screenshot 2024-09-28 222846](https://github.com/user-attachments/assets/e753901f-c5c7-4fb0-a955-7999ca60fddd)
 
+By MaximusMuir
 --------
 ⚙️  Features 
 --------
