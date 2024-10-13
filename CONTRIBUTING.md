@@ -61,3 +61,5 @@ Please adhere to our Code of Conduct when participating in this project. We expe
 If you have any questions about contributing, feel free to open an issue or reach out to me on Discord (MaximusMuir). I'll be happy to help!
 
 Thank you for your contributions and support!
+
+Maximus.
