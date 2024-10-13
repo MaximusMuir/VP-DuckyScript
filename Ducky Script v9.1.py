@@ -1,3 +1,15 @@
+# Virtual piano sheet music to ducky script converter
+
+# Written by MaximusMuir on 13/10/24
+# Do not take and adertise as your own
+
+# New and improved UI, upload / download buttons on UI along with a "help" button explaining how it works
+# Along with a text edior, for if you dont have a .txt file but just
+
+# Look out for updates in the future
+
+# Message me on discord (info in README file) if any issues arise !
+
 import tkinter as tk
 from tkinter import filedialog, messagebox, scrolledtext, Toplevel
 import re
