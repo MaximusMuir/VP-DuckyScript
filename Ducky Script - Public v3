@@ -68,11 +68,11 @@ def format_script(content):
     for token in tokens:
         if token.startswith('[') and token.endswith(']'):  # Keep content within brackets intact
             formatted_script.append("WAIT_FOR_BUTTON_PRESS")
-            formatted_script.append(f"DELAY {token}")
+            formatted_script.append(f"STRING {token}")
         else:
             for char in token:
                 formatted_script.append("WAIT_FOR_BUTTON_PRESS")
-                formatted_script.append(f"DELAY {char}")
+                formatted_script.append(f"STRING {char}")
     
     return '\n'.join(formatted_script)
 
