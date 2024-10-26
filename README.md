@@ -1,5 +1,12 @@
 # Virtual Piano to Rubber Ducky Script Converter 🎼 > 📜
 ------------------------------------------------
+❗NOTICE❗
+--------
+⚠️ Currently working on an application for this program, so it runs on an .exe and doesnt rely on python IDE's ⚠️
+
+(This may take a while as I am teaching myself C# programming)
+
+------------------------------------------------
 📄  Overview 
 --------
 - Welcome to the Virtual Piano to Rubber Ducky Script Converter! This project provides a Python script that takes virtual piano sheets and transforms them into a Rubber Ducky script, specifically designed for use with the Flipper Zero or similar devices equipped with buttons.
