@@ -2,10 +2,10 @@
 ------------------------------------------------
 ❗NOTICE❗
 --------
-⚠️ Currently working on an application for this program, so it runs on an .exe and doesnt rely on python IDE's ⚠️
+⚠️ Currently working on an application for this program, so it runs on an executable and doesnt rely on python IDE's ⚠️
 
 (This may take a while as I am teaching myself C# programming)
-- I have added the basic conversion from VP sheets to ducky format, and am now working on making the app look somewhat visually pleasing. (Updated 27/10/2024)
+- I have added the basic conversion from VP sheets to ducky format, and am now working on making the app look somewhat visually pleasing. (Updated 25/11/2024)
 
 ------------------------------------------------
 📄  Overview 
