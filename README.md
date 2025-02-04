@@ -1,4 +1,4 @@
-# Virtual Piano to Rubber Ducky Script Converter 🎼 > 📜
+# Virtual Piano Aheets to Rubber Ducky Script Converter 🎼 > 📜
 ------------------------------------------------
 ❗NOTICE❗
 --------
