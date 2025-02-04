@@ -58,7 +58,7 @@ Still the same ⬇️
 - Ducky scripts (on flipper) uses the button to proceed to the next keypress. 
 - Using this over bluetooth can sometimes reset the script if you press to quickly as the flipper needs to know the keypress has been successfully sent. The process may take a few seconds/milliseconds, and during that process the flipper might say \*press button* to "Stop" (if that makes any sense?) So is best used using a USB as there is far less delay and thingns that may cause it to restart/stop. 
 
-V-Pano info (about me):
+#### V-Pano info (about me):
 - I have been playing virtual piano for a few years now.
 - Some people say auto is for bad people who are incompetent with learning to actually play, but i just look past them and enjoy myself. I know how to play some songs, so thats all I care about.
 
