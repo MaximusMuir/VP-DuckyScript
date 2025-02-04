@@ -55,7 +55,8 @@ Still the same ⬇️
 -------------
 - In no way will this get you banned (talking of roblox) as a BadUSB is just a device imitating a keyboard button press.
 - I made this just as a little side project for myself, and decided to share it on here for others to use.
-- Ducky scripts (on flipper) using the button to proceed, over bluetooth can sometimes reset the script if you press to quickly as the flipper needs to know the code has been ran and that process may take a few seconds, and during that process the flipper might say \*press buton* to "Stop" (if that makes any sense?) So is best used using a USB as there is far less delay. 
+- Ducky scripts (on flipper) uses the button to proceed to the next keypress. 
+- Using this over bluetooth can sometimes reset the script if you press to quickly as the flipper needs to know the keypress has been successfully sent. The process may take a few seconds/milliseconds, and during that process the flipper might say \*press button* to "Stop" (if that makes any sense?) So is best used using a USB as there is far less delay and thingns that may cause it to restart/stop. 
 
 V-Pano info (about me):
 - I have been playing virtual piano for a few years now.
