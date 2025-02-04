@@ -28,7 +28,7 @@ Py script by MaximusMuir
   
 - BadUSB program (on flipper) in use (using converted virtual piano sheet) ⬇️ 
 ![IMG_0391](https://github.com/user-attachments/assets/6b18fd05-a632-461b-9daa-25fee3a09d93)
-# (Notice how in the image above, the screen says "Press to Continue"? Thats the code that makes the Ducky file act like the auto piano in the roblox game i mentioned) ⬆️⬆️
+#### (Notice how in the image above, the screen says "Press to Continue"? Thats the code that makes the Ducky file act like the auto piano in the roblox game i mentioned) ⬆️⬆️
 
 -------------------
 ✏️  Getting Started 
